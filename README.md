@@ -13,4 +13,4 @@
 2.  http://localhost:8000/api/v1/ranks/ - get all ranks
 3.  http://localhost:8000/api/v1/users/x - get solo user (where x is user Id)
 4. http://localhost:8000/api/v1/ranks/x - get solo rank
-5.  http://localhost:8000/doctors/?sort_rank=x - sort by rank queue (desc, asc or none)
+5.  http://localhost:8000/api/v1/users/?sort_rank=x - sort by rank queue (desc, asc or none)
